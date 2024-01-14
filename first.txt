@@ -1,4 +1,0 @@
-this is the first text1
-this is updated
-I will use git diff
-lets compare stage
