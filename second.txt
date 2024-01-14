@@ -1,1 +1,2 @@
 second txt created
+testing direct commit in git
